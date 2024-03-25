@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package soallatihannpert6;
 class PersegiPanjang {
     int panjang;
@@ -33,10 +29,7 @@ class PersegiPanjang {
         lebar = lebarbaru;
     }
 }
-/**
- *
- * @author sahru
- */
+
 public class Soallatihannpert6 {
     public static void main(String[] args) {
         PersegiPanjang persegipanjang1 = new PersegiPanjang();
